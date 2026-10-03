@@ -159,4 +159,4 @@ Users can filter the dashboard by:
 
 # 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/analystmanasi/FMCG-Sales-Dashboard/blob/main/FMCG%20Sales%20Dashboard.png)
+![Dashboard Screenshot](https://github.com/analystmanasi/FMCG-Sales-Analytics-Dashboard/blob/main/FMCG_Sales_Dashboard.pdf)
